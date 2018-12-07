@@ -1,11 +1,10 @@
 ---
 Layout:post
-title:Football 101
+title: Von Miller' Life
 ---
-![ von miller](/images/Football.jpg)
-## 3 things about von miller 
+![ von miller](/images/vm1.jpg)
+
+## Von Miller's Life 
 Best player on the broncos best at getting at the QB
 
-## he's the goat he gets paid more than half the players in the team best lolb on the teamhttps://www.denverpost.com/2018/11/18/von-miller-interception-broncos-chargers/
-
-##he’s the just an amazing player he the greatest in the nfl as a defensive player
+For more information about Von Miller's life, [click here](https://www.britannica.com/biography/Von-Miller).
