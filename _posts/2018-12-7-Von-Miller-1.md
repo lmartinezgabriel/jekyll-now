@@ -1,5 +1,5 @@
 ---
-Layout:post
+Layout: post
 title: Von Miller' Life
 ---
 ![ von miller](/images/vm1.jpg)
